@@ -1,4 +1,4 @@
-проверить GIT
+test GIT
 
 changes
 
