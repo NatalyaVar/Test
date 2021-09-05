@@ -1,4 +1,4 @@
-проверить GIT
+untested GIT
 
 changes
 
