@@ -1,4 +1,4 @@
-untested GIT
+untested GIT conflict_branch
 
 test GIT
 
